@@ -1,0 +1,17 @@
+h1{background:blue;font-size:125px;color:white;}
+a{background:yellow;font-size:35px;text-align:center;}
+p{font-size:40px;color:blue;}
+p{text-align:center;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+a {
+  display: center;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:100%;
+  width: 44px; height: 44px;
+}
